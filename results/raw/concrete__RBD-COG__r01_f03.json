@@ -1,0 +1,1 @@
+{"dataset": "concrete", "model": "RBD-COG", "rep": 1, "fold": 3, "n_train": 824, "n_test": 206, "rmse": 7.380944770551223, "mae": 5.806498344859151, "r2": 0.804506589874465, "train_time_s": 0.6046094999983325, "n_params": 95, "n_free_params": 90, "epochs": 86, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

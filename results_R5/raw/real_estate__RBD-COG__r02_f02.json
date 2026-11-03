@@ -1,0 +1,1 @@
+{"dataset": "real_estate", "model": "RBD-COG", "rep": 2, "fold": 2, "n_train": 331, "n_test": 83, "rmse": 7.984915122440548, "mae": 6.185349683783005, "r2": 0.64372208712896, "train_time_s": 0.31589670000539627, "n_params": 75, "n_free_params": 70, "epochs": 93, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

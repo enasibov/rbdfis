@@ -1,0 +1,1 @@
+{"dataset": "qsar_fish", "model": "RBD-COG", "rep": 2, "fold": 3, "n_train": 727, "n_test": 181, "rmse": 0.9053644691843767, "mae": 0.669225664402431, "r2": 0.554770127175524, "train_time_s": 0.19254060000093887, "n_params": 45, "n_free_params": 42, "epochs": 39, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

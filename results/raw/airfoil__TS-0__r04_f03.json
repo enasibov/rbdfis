@@ -1,0 +1,1 @@
+{"dataset": "airfoil", "model": "TS-0", "rep": 4, "fold": 3, "n_train": 1203, "n_test": 300, "rmse": 4.655570560501795, "mae": 3.523493069166388, "r2": 0.579067414930511, "train_time_s": 0.6570156000016141, "n_params": 77, "n_free_params": 77, "epochs": 89, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1}

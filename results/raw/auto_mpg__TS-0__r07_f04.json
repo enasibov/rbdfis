@@ -1,0 +1,1 @@
+{"dataset": "auto_mpg", "model": "TS-0", "rep": 7, "fold": 4, "n_train": 314, "n_test": 78, "rmse": 4.195997270312081, "mae": 3.272480441889915, "r2": 0.7281121849464418, "train_time_s": 0.07804260000557406, "n_params": 91, "n_free_params": 91, "epochs": 32, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1}

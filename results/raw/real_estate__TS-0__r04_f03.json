@@ -1,0 +1,1 @@
+{"dataset": "real_estate", "model": "TS-0", "rep": 4, "fold": 3, "n_train": 331, "n_test": 83, "rmse": 10.930375477238723, "mae": 6.292941129299453, "r2": 0.49925978229521484, "train_time_s": 0.09266870000283234, "n_params": 39, "n_free_params": 39, "epochs": 44, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1}

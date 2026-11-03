@@ -1,0 +1,1 @@
+{"dataset": "qsar_fish", "model": "RBD-MOM", "rep": 2, "fold": 3, "n_train": 727, "n_test": 181, "rmse": 0.8516441754225378, "mae": 0.6303263604189026, "r2": 0.606038517190761, "train_time_s": 0.4533219000004465, "n_params": 75, "n_free_params": 70, "epochs": 65, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

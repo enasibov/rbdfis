@@ -1,0 +1,1 @@
+{"dataset": "energy", "model": "RBD-COG", "rep": 2, "fold": 3, "n_train": 615, "n_test": 153, "rmse": 1.2952232816157287, "mae": 0.9698357722931619, "r2": 0.983442385907865, "train_time_s": 0.8506640999985393, "n_params": 133, "n_free_params": 126, "epochs": 152, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

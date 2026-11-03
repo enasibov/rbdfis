@@ -1,0 +1,1 @@
+{"dataset": "ccpp", "model": "RBD-MOM", "rep": 1, "fold": 1, "n_train": 7654, "n_test": 1914, "rmse": 4.48128505606245, "mae": 3.4032349895947918, "r2": 0.9307084232353853, "train_time_s": 1.9144575000027544, "n_params": 33, "n_free_params": 30, "epochs": 46, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

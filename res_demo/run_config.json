@@ -1,0 +1,48 @@
+{
+  "datasets": [
+    "friedman1_0",
+    "friedman2_0",
+    "friedman3_0",
+    "friedman1_1",
+    "friedman2_1",
+    "friedman3_1",
+    "friedman1_2",
+    "friedman2_2",
+    "friedman3_2",
+    "friedman1_3"
+  ],
+  "models": [
+    "TS-0",
+    "TS-1",
+    "RBD-COG",
+    "RBD-MOM",
+    "RBD-WABL-F",
+    "RBD-WABL-G",
+    "RBD-WABL-R"
+  ],
+  "reps": 2,
+  "grid": {
+    "n_rules": [
+      3,
+      5,
+      7
+    ],
+    "lr": [
+      0.01
+    ],
+    "ridge": [
+      0.1
+    ],
+    "sigma_bar": [
+      0.2
+    ]
+  },
+  "n_folds": 5,
+  "n_configs": 3,
+  "inner_val": 0.2,
+  "max_epochs": 30,
+  "patience": 30,
+  "batch_size": 64,
+  "base_seed": 2026,
+  "fixed_rules": null
+}

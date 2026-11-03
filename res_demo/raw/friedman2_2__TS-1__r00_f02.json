@@ -1,0 +1,1 @@
+{"dataset": "friedman2_2", "model": "TS-1", "rep": 0, "fold": 2, "n_train": 162, "n_test": 41, "rmse": 133.13245453256556, "mae": 90.65411159706726, "r2": 0.8829080313700862, "train_time_s": 0.0592153999969014, "n_params": 65, "n_free_params": 65, "epochs": 30, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1}

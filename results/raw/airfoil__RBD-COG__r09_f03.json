@@ -1,0 +1,1 @@
+{"dataset": "airfoil", "model": "RBD-COG", "rep": 9, "fold": 3, "n_train": 1203, "n_test": 300, "rmse": 3.4857091483837315, "mae": 2.7405654207537617, "r2": 0.704288698952086, "train_time_s": 0.42878729999938514, "n_params": 91, "n_free_params": 84, "epochs": 41, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

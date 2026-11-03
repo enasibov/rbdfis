@@ -1,0 +1,1 @@
+{"dataset": "yacht", "model": "RBD-COG", "rep": 2, "fold": 1, "n_train": 246, "n_test": 62, "rmse": 3.5462571727391774, "mae": 2.2508138889480507, "r2": 0.9538799624424609, "train_time_s": 0.2683060000053956, "n_params": 45, "n_free_params": 42, "epochs": 113, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

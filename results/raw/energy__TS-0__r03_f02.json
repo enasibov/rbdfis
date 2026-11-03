@@ -1,0 +1,1 @@
+{"dataset": "energy", "model": "TS-0", "rep": 3, "fold": 2, "n_train": 614, "n_test": 154, "rmse": 2.7669900677036177, "mae": 1.8011610820736728, "r2": 0.9141054089067948, "train_time_s": 0.6359249999950407, "n_params": 119, "n_free_params": 119, "epochs": 141, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1}

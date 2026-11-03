@@ -1,0 +1,1 @@
+{"dataset": "real_estate", "model": "RBD-MOM", "rep": 7, "fold": 1, "n_train": 331, "n_test": 83, "rmse": 7.89391743005609, "mae": 5.809317540703144, "r2": 0.625524740170052, "train_time_s": 0.24061739999888232, "n_params": 45, "n_free_params": 42, "epochs": 82, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

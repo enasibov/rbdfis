@@ -1,0 +1,1 @@
+{"dataset": "abalone", "model": "RBD-MOM", "rep": 2, "fold": 4, "n_train": 3342, "n_test": 835, "rmse": 2.41062763033657, "mae": 1.7098422599981913, "r2": 0.4299877311877053, "train_time_s": 1.594310400003451, "n_params": 51, "n_free_params": 48, "epochs": 89, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

@@ -1,0 +1,1 @@
+{"dataset": "qsar_fish", "model": "TS-1", "rep": 9, "fold": 4, "n_train": 727, "n_test": 181, "rmse": 0.8975273039858875, "mae": 0.6449583382346208, "r2": 0.6111345294572189, "train_time_s": 0.31891199999517994, "n_params": 133, "n_free_params": 133, "epochs": 54, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1}

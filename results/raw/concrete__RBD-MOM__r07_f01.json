@@ -1,0 +1,1 @@
+{"dataset": "concrete", "model": "RBD-MOM", "rep": 7, "fold": 1, "n_train": 824, "n_test": 206, "rmse": 6.4481911862819645, "mae": 5.022157127963775, "r2": 0.8439590217962076, "train_time_s": 0.5883118999990984, "n_params": 133, "n_free_params": 126, "epochs": 92, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

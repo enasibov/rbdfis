@@ -1,0 +1,1 @@
+{"dataset": "friedman1_2", "model": "RBD-MOM", "rep": 0, "fold": 3, "n_train": 172, "n_test": 43, "rmse": 2.2835922331133034, "mae": 1.6701846459999177, "r2": 0.7793557065695224, "train_time_s": 0.07210190000478178, "n_params": 39, "n_free_params": 36, "epochs": 30, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

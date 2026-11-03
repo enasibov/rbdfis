@@ -1,0 +1,1 @@
+{"dataset": "friedman3_0", "model": "RBD-COG", "rep": 1, "fold": 3, "n_train": 242, "n_test": 60, "rmse": 0.22642876558819694, "mae": 0.1537107732670885, "r2": 0.6165199405589608, "train_time_s": 0.11949420000019018, "n_params": 55, "n_free_params": 50, "epochs": 30, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

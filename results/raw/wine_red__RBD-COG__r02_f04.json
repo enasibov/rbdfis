@@ -1,0 +1,1 @@
+{"dataset": "wine_red", "model": "RBD-COG", "rep": 2, "fold": 4, "n_train": 1280, "n_test": 319, "rmse": 0.6231058233866601, "mae": 0.46689095824540877, "r2": 0.3507868464151398, "train_time_s": 1.0830260000002454, "n_params": 125, "n_free_params": 120, "epochs": 93, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

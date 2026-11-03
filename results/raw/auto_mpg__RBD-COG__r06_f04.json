@@ -1,0 +1,1 @@
+{"dataset": "auto_mpg", "model": "RBD-COG", "rep": 6, "fold": 4, "n_train": 314, "n_test": 78, "rmse": 3.271721534626599, "mae": 2.2347134009536904, "r2": 0.7949442135496703, "train_time_s": 0.22757019999698969, "n_params": 45, "n_free_params": 42, "epochs": 88, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

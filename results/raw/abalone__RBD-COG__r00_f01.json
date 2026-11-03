@@ -1,0 +1,1 @@
+{"dataset": "abalone", "model": "RBD-COG", "rep": 0, "fold": 1, "n_train": 3341, "n_test": 836, "rmse": 2.1613530484365886, "mae": 1.5051910776071253, "r2": 0.548216417572445, "train_time_s": 1.1655851999967126, "n_params": 51, "n_free_params": 48, "epochs": 63, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

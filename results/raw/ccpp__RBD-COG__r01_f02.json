@@ -1,0 +1,1 @@
+{"dataset": "ccpp", "model": "RBD-COG", "rep": 1, "fold": 2, "n_train": 7654, "n_test": 1914, "rmse": 4.360050127949204, "mae": 3.455050310738934, "r2": 0.933143958591226, "train_time_s": 1.7721064999932423, "n_params": 33, "n_free_params": 30, "epochs": 40, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

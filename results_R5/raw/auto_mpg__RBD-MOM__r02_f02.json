@@ -1,0 +1,1 @@
+{"dataset": "auto_mpg", "model": "RBD-MOM", "rep": 2, "fold": 2, "n_train": 314, "n_test": 78, "rmse": 3.257881138107355, "mae": 2.119171603497288, "r2": 0.846933846139051, "train_time_s": 0.22572539999964647, "n_params": 75, "n_free_params": 70, "epochs": 86, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

@@ -1,0 +1,1 @@
+{"dataset": "wine_red", "model": "RBD-MOM", "rep": 8, "fold": 3, "n_train": 1279, "n_test": 320, "rmse": 0.6264659279422997, "mae": 0.4846870319156352, "r2": 0.38738020078422364, "train_time_s": 0.9527708000023267, "n_params": 125, "n_free_params": 120, "epochs": 71, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

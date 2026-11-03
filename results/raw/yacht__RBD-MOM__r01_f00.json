@@ -1,0 +1,1 @@
+{"dataset": "yacht", "model": "RBD-MOM", "rep": 1, "fold": 0, "n_train": 246, "n_test": 62, "rmse": 2.559253987930827, "mae": 1.8677411555770738, "r2": 0.9733962192552661, "train_time_s": 0.4489631999967969, "n_params": 45, "n_free_params": 42, "epochs": 200, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

@@ -1,0 +1,1 @@
+{"dataset": "energy", "model": "RBD-MOM", "rep": 4, "fold": 0, "n_train": 614, "n_test": 154, "rmse": 1.308313963314779, "mae": 1.0024351373199019, "r2": 0.9826927098371521, "train_time_s": 0.7135127000001376, "n_params": 133, "n_free_params": 126, "epochs": 127, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

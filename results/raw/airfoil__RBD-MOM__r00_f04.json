@@ -1,0 +1,1 @@
+{"dataset": "airfoil", "model": "RBD-MOM", "rep": 0, "fold": 4, "n_train": 1203, "n_test": 300, "rmse": 3.277845587879064, "mae": 2.4681850514783115, "r2": 0.774764912073015, "train_time_s": 0.8708413999993354, "n_params": 91, "n_free_params": 84, "epochs": 97, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1, "hp_sigma_bar": 0.2}

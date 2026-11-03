@@ -1,0 +1,1 @@
+{"dataset": "concrete", "model": "TS-0", "rep": 4, "fold": 1, "n_train": 824, "n_test": 206, "rmse": 8.485684070640742, "mae": 6.566293840086665, "r2": 0.6868428996605244, "train_time_s": 0.5696576000045752, "n_params": 85, "n_free_params": 85, "epochs": 114, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1}

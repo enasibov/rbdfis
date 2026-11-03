@@ -1,0 +1,1 @@
+{"dataset": "ccpp", "model": "TS-0", "rep": 9, "fold": 4, "n_train": 7655, "n_test": 1913, "rmse": 6.634230269438867, "mae": 5.024212507126849, "r2": 0.8493875651995552, "train_time_s": 4.228263400000287, "n_params": 45, "n_free_params": 45, "epochs": 107, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1}

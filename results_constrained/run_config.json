@@ -1,0 +1,54 @@
+{
+  "datasets": [
+    "airfoil",
+    "auto_mpg",
+    "ccpp",
+    "concrete",
+    "energy",
+    "real_estate",
+    "wine_red",
+    "yacht",
+    "abalone",
+    "qsar_fish"
+  ],
+  "models": [
+    "TS-0",
+    "TS-1",
+    "RBD-COG",
+    "RBD-MOM",
+    "RBD-WABL-F",
+    "RBD-WABL-G",
+    "RBD-WABL-R"
+  ],
+  "reps": 10,
+  "grid": {
+    "n_rules": [
+      3,
+      5,
+      7
+    ],
+    "lr": [
+      0.01
+    ],
+    "ridge": [
+      0.1
+    ],
+    "sigma_bar": [
+      0.2
+    ]
+  },
+  "n_folds": 5,
+  "n_configs": 30,
+  "inner_val": 0.2,
+  "max_epochs": 200,
+  "patience": 30,
+  "batch_size": 64,
+  "base_seed": 2026,
+  "fixed_rules": null,
+  "constraints": {
+    "bound_antecedents": true,
+    "ordered_consequents": true,
+    "b_target": "partition",
+    "min_gap": 0.1
+  }
+}

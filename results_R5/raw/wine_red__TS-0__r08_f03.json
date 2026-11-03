@@ -1,0 +1,1 @@
+{"dataset": "wine_red", "model": "TS-0", "rep": 8, "fold": 3, "n_train": 1279, "n_test": 320, "rmse": 0.64826844224016, "mae": 0.5145697207580179, "r2": 0.34399691987592806, "train_time_s": 0.8862847999989754, "n_params": 115, "n_free_params": 115, "epochs": 77, "hp_n_rules": 5, "hp_lr": 0.01, "hp_ridge": 0.1}

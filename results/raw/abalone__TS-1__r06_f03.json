@@ -1,0 +1,1 @@
+{"dataset": "abalone", "model": "TS-1", "rep": 6, "fold": 3, "n_train": 3342, "n_test": 835, "rmse": 2.3561408719297647, "mae": 1.7132610995052107, "r2": 0.4785058093646022, "train_time_s": 1.904702100000577, "n_params": 66, "n_free_params": 66, "epochs": 115, "hp_n_rules": 3, "hp_lr": 0.01, "hp_ridge": 0.1}

@@ -1,0 +1,1 @@
+{"dataset": "yacht", "model": "TS-0", "rep": 3, "fold": 2, "n_train": 246, "n_test": 62, "rmse": 8.437071212382737, "mae": 4.197253149193577, "r2": 0.7555490070450903, "train_time_s": 0.3445382999998401, "n_params": 91, "n_free_params": 91, "epochs": 160, "hp_n_rules": 7, "hp_lr": 0.01, "hp_ridge": 0.1}
